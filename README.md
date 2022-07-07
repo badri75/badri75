@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Badri Narayanan
-- 👀 I’m interested in Coding, History and Sports
-- 🌱 I’m currently learning Data Structures & Algorithm, Web Development
+- 👀 Interested in Coding, History and Sports
+- 🌱 Aspiring Full Stack Developer
 
 <!---
 badri75/badri75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
